@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-title {
+    text-align: center;
+    background-color: rgba(54, 135, 201, 0.75);
+    border: 1px solid rgb(42, 125, 209);
+    border-radius: 3px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 50px; 
+    color: white;
+    font-size: 25px;
+}
+
+.line-content {
+    margin: 20px;
+    text-align: center;
+    width: 70%;
+    margin: 40px auto;
+    font-size: 30px;
+    color: white;
+}
+
+textarea {
+    display: inline-block;
+    width: 50%;
+    margin-top: 15px;
+    resize: none;
+}
+
+.line-content input[type='text'] {
+    background-color: rbg (245, 225, 225);
+    border: 1px solid rgb(44, 74, 207);
+    border-radius: 3px;
+    width: 100%;
+    padding: 7px;
+    font-size: 14px;
+}
+
+.form {
+    background-color: rgba(54, 135, 201, 0.75);
+    border: 1px solid rgb(42, 125, 209);
+    border-radius: 3px;
+    width: 80%;
+    padding: 50px;
+    margin: 0 auto 40px auto;
+}
+
+body {
+    background-image: url("http://i.mlcdn.com.br/portaldalu/fotosconteudo/12123.jpg");
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
